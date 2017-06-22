@@ -15,3 +15,5 @@ button=Button(app)
 button.grid()
 button["text"]="Button"
 
+root.mainloop()
+
